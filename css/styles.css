@@ -1,0 +1,59 @@
+        body {
+            background-color: #f3f3f3;
+            color: #413f3f;
+            font-family: 'Oswald', sans-serif;
+            font-size: 2vw;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        header {
+            padding: 30px;
+            text-align: center;
+        }
+
+        .topnav {
+            overflow: hidden;
+        }
+
+        .topnav img {
+            height: 3em;
+        }
+
+        .topnavn .name {
+            float: right;
+        }
+
+        a {
+            text-decoration: none;
+            color: #202020;
+            transition: 0.7s;
+        }
+
+        a:visited {
+            text-decoration: none;
+        }
+
+        .topnav a {
+            float: left;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        .topnav a:hover {
+            color: #807f7f;
+        }
+
+        .topnav a.active {
+            color: #202020;
+        }
+
+        footer {
+            padding: 10px;
+            text-align: left;
+        }
+
