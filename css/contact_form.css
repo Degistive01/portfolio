@@ -1,5 +1,8 @@
 /* Style inputs with type="text", select elements and textareas */
 
+
+/* https: //www.w3schools.com/howto/howto_css_contact_form.asp */
+
 input[type=text],
 select,
 textarea {
